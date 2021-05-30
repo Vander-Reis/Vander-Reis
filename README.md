@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Vander-Reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vander-Reis&layout=compact&langs_count=16&theme=dracula" height="100px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vander-Reis&layout=compact&langs_count=16&theme=dracula" height="800px">
 
 </div>
 
