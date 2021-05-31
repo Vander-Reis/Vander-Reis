@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <a target="_blank" href="https://www.linkedin.com/in/vander-reis-044163201/">
+  <a  href="https://www.linkedin.com/in/vander-reis-044163201/" target="_blank">
     <img align="center" alt="Vander-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"                 style="max-   width:100%;"/>
   </a>
 </div>
