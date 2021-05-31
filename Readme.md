@@ -72,5 +72,5 @@ Here are some ideas to get you started:
 </div>
 
 
-![Snake animation](https://github.com/Vander-Reis/Vander-Reis/blob/main/Vander-Reisoutput/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Vander-Reis/Vander-Reis/blob/main/Vander-Reis/github-user-contribution%20(3).svg)
 
