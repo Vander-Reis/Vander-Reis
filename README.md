@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     
    <img align="center" alt="Vander-instagram"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%;"/>
   
-   <img align="center" alt="Vander-instagram"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%;"/>
+   <img align="center" alt="Vander-instagram"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" style="max-width:100%;"/>
   
    <img align="center" alt="Vander-instagram"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"/>
   
