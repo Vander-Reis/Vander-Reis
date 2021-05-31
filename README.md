@@ -1,4 +1,14 @@
-### I'm Vander Reis
+### Hi there :wave:
+
+## I'm Vander Reis
+  
+  - I live in 🇧🇷
+  - I'm a front end developer :computer: 
+  - But I dedicate my studies to be a full-stack developer :books:
+
+## a little about myself
+
+  
 
 <!--
 **Vander-Reis/Vander-Reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
