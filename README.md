@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<a target="_blank" src="https://www.linkedin.com/in/vander-reis-044163201/">
+<a target="_blank" href="https://www.linkedin.com/in/vander-reis-044163201/">
   <img align="center" alt="Vander-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-   width:100%;"/>
 </a>
 
