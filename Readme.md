@@ -71,6 +71,6 @@ Here are some ideas to get you started:
   
 </div>
 
-![Snake animation](https://github.com/Vander-Reis/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Vander-Reis/Vander-Reis/blob/output/github-contribution-grid-snake.svg)
 
 
