@@ -1,0 +1,17 @@
+{
+  "name": "@snk/action",
+  "version": "1.0.0",
+  "dependencies": {
+    "@actions/core": "1.2.6",
+    "@snk/gif-creator": "1.0.0",
+    "@snk/github-user-contribution": "1.0.0"
+  },
+  "devDependencies": {
+    "@zeit/ncc": "0.22.3",
+    "ts-node": "9.1.1"
+  },
+  "scripts": {
+    "build": "ncc build --external canvas --out dist ./index.ts ",
+    "dev": "ts-node __tests__/dev.ts"
+  }
+}
