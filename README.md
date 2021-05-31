@@ -8,6 +8,9 @@
 
 ## a little about myself
 
+ - I am 21 years old, currently I am studying computer engineering!
+In 2020 "I fall by parachute" in this world of technology, where I really found myself, today I am completely passionate about web development, I love making code, and solving problems.
+
   
 
 <!--
@@ -25,11 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Vander-Reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vander-Reis&layout=compact&langs_count=16&theme=dracula">
-
-</div>
 
 <div>
   <h2>Connect with me:</h2>
@@ -52,6 +50,12 @@ Here are some ideas to get you started:
 
 
 ## My skills
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=Vander-Reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vander-Reis&layout=compact&langs_count=16&theme=dracula">
+
+</div>
 
 <div>
     
