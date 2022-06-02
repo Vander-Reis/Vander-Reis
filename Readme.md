@@ -1,5 +1,3 @@
-### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px"/>
-
 ## I'm Vander Reis
   
   - I live in 🇧🇷
