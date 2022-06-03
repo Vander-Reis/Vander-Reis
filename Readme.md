@@ -1,8 +1,5 @@
-## ![github-header-image](https://user-images.githubusercontent.com/77352309/171905064-0a812a89-7b46-4ccb-ae09-19551e419c61.png)
-  
-  - I live in 🇧🇷
-  - I'm a front end developer :computer: 
-  - But I dedicate my studies to be a full-stack developer :books:
+![github-header-image (4)](https://user-images.githubusercontent.com/77352309/171905840-238ec77f-5678-4d3b-ab33-a91e2820c95c.png)
+
 
 ## a little about myself
 
