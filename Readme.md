@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Vander-Reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  width="500">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vander-Reis&layout=compact&langs_count=16&theme=dracula" >
+ 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=vander-reis&theme=dark" >
 
 </div>
 
