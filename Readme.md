@@ -3,7 +3,7 @@
 
 ## a little about myself
 
- - I am 21 years old, currently I am studying computer engineering!
+ - I am 23 years old, currently I am studying computer engineering!
 In 2020 I fell into this world of technology, where I really found myself. Today I am completely passionate about web development, I love making code and solving problems.
 
   
