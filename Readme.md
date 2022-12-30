@@ -59,12 +59,6 @@ Here are some ideas to get you started:
 ##
 
 <div>
-    
-   <img align="center" alt="Icone HTML"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%;"/>
-  
-   <img align="center" alt="Icone CSS"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" style="max-width:100%;"/>
-  
-   <img align="center" alt="Icone Bootstrap"  width="40" src="https://www.clipartmax.com/png/middle/184-1844911_bootstrap-bootstrap-4-logo-png.png" style="max-width:100%;"/>
   
    <img align="center" alt="Icone JavaScript"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"/>
   
