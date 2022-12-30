@@ -47,11 +47,13 @@ Here are some ideas to get you started:
 ## My skills
 
 <div style="display: flex">
-<img src="https://github-readme-stats.vercel.app/api?username=Vander-Reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  height="200">
+   <img src="https://github-readme-stats.vercel.app/api?username=Vander-Reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  height="200">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vander-Reis&layout=compact&langs_count=16&theme=dracula"  height="200">
- 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vander-reis&theme=dark" >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vander-Reis&layout=compact&langs_count=16&theme=dracula"  height="200">
+
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vander-reis&theme=dark" >
+
+   <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vander-Reis&repo=coffeeDelivery&theme=dark"/> <a/>
 
 </div>
 
