@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vander-reis&theme=dark" >
 
-   <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vander-Reis&repo=coffeeDelivery&theme=dark"/> <a/>
 
 </div>
 
